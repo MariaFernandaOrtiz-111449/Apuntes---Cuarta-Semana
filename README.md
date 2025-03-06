@@ -21,13 +21,16 @@ De este bloque, podemos variar parametros como:
 * **Axis of Rotation:** Define la dirección del eje de rotación en coordenadas (X, Y, Z).
 
 ## 2. Ejercicios
-Deben agregar 2 ejercicios con su respectiva solución, referentes a los temas tratados en cada una de las clases. Para agregar estos, utilice la etiqueta #, es decir como un nuevo título dentro de la clase con la palabra 'Ejercicios'. Cada uno de los ejercicios debe estar numerado y con su respectiva solución inmediatamente despues del enunciado. Antes del subtitulo de cada ejercicio incluya el emoji 📚
+**Practica en clase 📚**
+
+en clase realizamos un ejercicio simple en simscape multibody, esto para familiarizarnos con el entorno, básicamente hicimos una especie de viga de dimensiona 0.2 , 0.5 y 0.05 metros. Puedes ampliar esta información
 
 ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/3a39dd7a5580a01779f72e208a761cef933d0134/Imagen%201.jpg)
 
 ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/73b0fe50ca3d5afd7309d17f1583038d2bc05c12/Imagen%202.jpg)
+
 ## 3. Conclusiones
-Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
+El uso de Simscape Multibody en la simulación de sistemas mecánicos permite una representación visual y dinámica de estructuras y mecanismos, facilitando su análisis sin necesidad de construir modelos físicos. A través del ejercicio realizado en clase, donde creamos una viga con dimensiones de 0.2, 0.5 y 0.05 metros, pudimos familiarizarnos con la interfaz y herramientas del entorno, comprendiendo cómo definir geometrías, asignar propiedades físicas y visualizar el comportamiento del modelo. Este tipo de simulaciones son fundamentales para el diseño y validación de sistemas mecánicos antes de su implementación real.
 
 ## 4. Referencias
-Agregue un subtítulo al final donde pueda poner todas las referencias consultadas incluyendo el origen o fuente de los ejercicios planteados. Tambien dentro del texto referencie los textos o artículos consultados y las figuras y tablas dentro de la explicación de las mismas.
+MathWorks – Simscape Multibody Documentation, Disponible en: https://www.mathworks.com/help/physmod/sm/index.html
