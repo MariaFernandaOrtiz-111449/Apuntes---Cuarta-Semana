@@ -5,8 +5,12 @@ Apuntes control de movimiento primer corte, Cuarta Semana
 Simscape multibody, es un entorno que permite modelar piezas en 3D y al mismo tiempo hacer ensambles de varias piezas. Entre las muchas funciones que tiene este entorno, es que que aparte de permitirnos visualizar animaciones en 3D, importar sistemas hifraulicos, electricos y neumaticos; permite resolver ecuaciones del movimiento del sistema, es decir permite determinar la cinematica del sistema a partir de matrices en MatLab. Es un entorno bastante sencillo que funciona mediante bloques de componentes. 
 
 ## 1. Definir Parametros
-Agregue todos 
+Se realizó un ejemplos bastante sencillo en donde se configuraban ciertos parametros y se obtenía un diseño 3D en el entorno de Simscape multibody.
+Entre los bloque que se observaron, estaba el bloque de "Mechanism Configuration", en donde podemos configurar la gravedad a la que queremos someter el objeto, esta variable puede llegar a influir en el analisis cinimatico de los objetos.
+
 ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/774868dcb56534e6e24e083fe763ef14f4e8c8d0/parametro%201.jpg)
+
+También encontramos las configuraciones del bloque "Revolute Joint", este bloque 
 
 ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/f2e499c4a2ee45e15f2aaabca6f1d700ab0fb910/parametro%202.jpg)
 
