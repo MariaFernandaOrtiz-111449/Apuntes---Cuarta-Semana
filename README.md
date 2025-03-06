@@ -27,6 +27,8 @@ en clase realizamos un ejercicio simple en simscape multibody, esto para familia
 
 ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/3a39dd7a5580a01779f72e208a761cef933d0134/Imagen%201.jpg)
 
+Una vez puestos los parametros solicitados, cuando se ejecute o se simule, encontraremos una nueva ventana en donde podremos ver no solo las dimensiones del objeto que se edito anteriormente, sino una especie de animación en donde podremos observar la cinematica del sitema, dicha cinematica depende de los valores que hayamos configurado anteriormente. 
+
 ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/73b0fe50ca3d5afd7309d17f1583038d2bc05c12/Imagen%202.jpg)
 
 ## 3. Conclusiones
