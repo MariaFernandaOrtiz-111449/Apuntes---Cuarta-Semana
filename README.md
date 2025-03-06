@@ -17,7 +17,7 @@ Deben agregar 2 ejercicios con su respectiva solución, referentes a los temas t
 
 ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/3a39dd7a5580a01779f72e208a761cef933d0134/Imagen%201.jpg)
 
-
+![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/73b0fe50ca3d5afd7309d17f1583038d2bc05c12/Imagen%202.jpg)
 ## 3. Conclusiones
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
