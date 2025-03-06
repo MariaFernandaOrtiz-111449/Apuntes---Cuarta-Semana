@@ -15,6 +15,9 @@ Agregue todos
 ## 2. Ejercicios
 Deben agregar 2 ejercicios con su respectiva solución, referentes a los temas tratados en cada una de las clases. Para agregar estos, utilice la etiqueta #, es decir como un nuevo título dentro de la clase con la palabra 'Ejercicios'. Cada uno de los ejercicios debe estar numerado y con su respectiva solución inmediatamente despues del enunciado. Antes del subtitulo de cada ejercicio incluya el emoji 📚
 
+![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/3a39dd7a5580a01779f72e208a761cef933d0134/Imagen%201.jpg)
+
+
 ## 3. Conclusiones
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
