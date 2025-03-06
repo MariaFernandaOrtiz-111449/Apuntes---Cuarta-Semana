@@ -8,6 +8,9 @@ Simscape multibody, es un entorno que permite modelar piezas en 3D y al mismo ti
 Agregue todos 
 ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/774868dcb56534e6e24e083fe763ef14f4e8c8d0/parametro%201.jpg)
 
+![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/f2e499c4a2ee45e15f2aaabca6f1d700ab0fb910/parametro%202.jpg)
+
+
 
 ## 2. Ejercicios
 Deben agregar 2 ejercicios con su respectiva solución, referentes a los temas tratados en cada una de las clases. Para agregar estos, utilice la etiqueta #, es decir como un nuevo título dentro de la clase con la palabra 'Ejercicios'. Cada uno de los ejercicios debe estar numerado y con su respectiva solución inmediatamente despues del enunciado. Antes del subtitulo de cada ejercicio incluya el emoji 📚
