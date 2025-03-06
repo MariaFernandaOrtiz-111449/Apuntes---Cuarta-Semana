@@ -10,11 +10,15 @@ Entre los bloque que se observaron, estaba el bloque de "Mechanism Configuration
 
 ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/774868dcb56534e6e24e083fe763ef14f4e8c8d0/parametro%201.jpg)
 
-También encontramos las configuraciones del bloque "Revolute Joint", este bloque 
+También encontramos las configuraciones del bloque "Revolute Joint", este bloque representa una unión rotativa entre dos cuerpos rígidos, permitiendo que un cuerpo gire en torno a un eje fijo respecto al otro. Este bloque es esencial en la simulación de mecanismos como brazos robóticos, motores, bisagras, y otras aplicaciones que requieren movimiento rotacional.
 
 ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Cuarta-Semana/blob/f2e499c4a2ee45e15f2aaabca6f1d700ab0fb910/parametro%202.jpg)
 
-
+De este bloque, podemos variar parametros como:
+* **Degrees of Freedom:** Indica que este bloque permite un grado de libertad (1-DOF) en rotación sobre un eje fijo.
+* **Automatically Computed :** Simscape define automáticamente el eje de rotación con base en la geometría.
+* **Provided by the User :** Permite especificar manualmente la dirección del eje de rotación.
+* **Axis of Rotation:** Define la dirección del eje de rotación en coordenadas (X, Y, Z).
 
 ## 2. Ejercicios
 Deben agregar 2 ejercicios con su respectiva solución, referentes a los temas tratados en cada una de las clases. Para agregar estos, utilice la etiqueta #, es decir como un nuevo título dentro de la clase con la palabra 'Ejercicios'. Cada uno de los ejercicios debe estar numerado y con su respectiva solución inmediatamente despues del enunciado. Antes del subtitulo de cada ejercicio incluya el emoji 📚
